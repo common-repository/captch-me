@@ -1,0 +1,820 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Attentive Ads CaptchMe\n"
+"POT-Creation-Date: 2018-01-19 01:03+0100\n"
+"PO-Revision-Date: 2018-01-19 01:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: captchme.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: captchme-options.php:26
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Vous n'avez pas les droits d'accès suffisants pour accéder à cette page."
+
+#: captchme-options.php:92
+msgid "Attentive Ads (CaptchMe) Options"
+msgstr "Options Attentive Ads (Captch Me)"
+
+#: captchme-options.php:93
+msgid "CaptchMe by Attentive Ads offers a monetized spam blocking solution."
+msgstr "Captch Me by Attentive Ads offre une solution anti-spam monétisée."
+
+#: captchme-options.php:94
+msgid ""
+"But Attentive Ads is not only a captcha solution. It's 8 different "
+"monetization formats, all compatible with Wordpress. Optimize the "
+"monetization of your audience with our respectful advertising formats: "
+"monetize & secure comments and registrations with CaptchMe publicaptchas, "
+"monetize access to content you want to enhance with the AccessMe format, "
+"monetize all your pages with our classic formats."
+msgstr ""
+"Mais Attentive Ads n'est pas seulement une solution de captcha. C'est 8 "
+"formats de monétisation différents, tous compatibles avec Wordpress. "
+"Optimisez la rémunération de votre audience avec nos formats publicitaires "
+"respectueux des internautes : monétisez & sécurisez commentaires et "
+"inscriptions avec les publicaptchas Captch Me, monétisez l'accès aux "
+"contenus que vous souhaitez valoriser avec le format Access Me, monétisez "
+"toutes vos pages avec nos formats classiques."
+
+#: captchme-options.php:94
+msgid "Discover our other formats."
+msgstr "Découvrez nos autres formats."
+
+#: captchme-options.php:95
+msgid "For details, visit the "
+msgstr "Pour plus de détails, merci de visiter le "
+
+#: captchme-options.php:95
+msgid "Attentive Ads website"
+msgstr "site d'Attentive Ads"
+
+#: captchme-options.php:96
+msgid "Manage your formats:"
+msgstr "Gérez vos formats :"
+
+#: captchme-options.php:115
+msgid "My account"
+msgstr "Mon compte"
+
+#: captchme-options.php:121
+msgid "(please choose the format to setup)"
+msgstr "(veuillez choisir le format à paramétrer)"
+
+#: captchme-options.php:130
+msgid "Save changes"
+msgstr "Sauvegarder les modifications"
+
+#: captchme-options.php:149
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#: captchme-options.php:151
+msgid "Comments Activation"
+msgstr "Activation des commentaires"
+
+#: captchme-options.php:153
+msgid "Registration Activation"
+msgstr "Activation des inscriptions"
+
+#: captchme-options.php:155
+msgid "Login Activation"
+msgstr "Activation de la connexion"
+
+#: captchme-options.php:163 captchme-options.php:169 captchme-options.php:175
+#: captchme-options.php:183 captchme-options.php:189 captchme-options.php:195
+#: captchme-options.php:201
+msgid "General Settings & Activation"
+msgstr "Paramètres généraux & Activation"
+
+#: captchme-options.php:208
+msgid "CaptchMe Format"
+msgstr "Format Captch Me"
+
+#: captchme-options.php:212 captchme-options.php:220 captchme-options.php:228
+#: captchme-options.php:236 captchme-options.php:244 captchme-options.php:254
+#: captchme-options.php:264 captchme-options.php:274
+msgid "Get your keys"
+msgstr "Obtenez vos clés"
+
+#: captchme-options.php:216
+msgid "ShowMe Format"
+msgstr "Format Show Me"
+
+#: captchme-options.php:224
+msgid "LeaveMe Format"
+msgstr "Format Leave Me"
+
+#: captchme-options.php:232
+msgid "AccessMe Format"
+msgstr "Format Access Me"
+
+#: captchme-options.php:240
+msgid "C-Skin Format"
+msgstr "Format C-Skin"
+
+#: captchme-options.php:245
+msgid ""
+"(you need a special public key for C-Skin, please create a new universe in "
+"your Publisher Selfcare)"
+msgstr ""
+"(vous avez besoin d'une clé publique spéciale pour le format C-Skin, créez "
+"svp un nouvel univers sur votre Selfcare Éditeur)"
+
+#: captchme-options.php:250
+msgid "C-Floorad Format"
+msgstr "Format C-Floorad"
+
+#: captchme-options.php:255
+msgid ""
+"(you need a special public key for C-Floorad, please create a new universe "
+"in your Publisher Selfcare)"
+msgstr ""
+"(vous avez besoin d'une clé publique spéciale pour le format C-Floorad, "
+"créez svp un nouvel univers sur votre Selfcare Éditeur)"
+
+#: captchme-options.php:260
+msgid "C-Banner Format"
+msgstr "Format C-Banner"
+
+#: captchme-options.php:265
+msgid ""
+"(you need a special public key for C-Banner, please create a new universe in "
+"your Publisher Selfcare)"
+msgstr ""
+"(vous avez besoin d'une clé publique spéciale pour le format C-Banner, créez "
+"svp un nouvel univers sur votre Selfcare Éditeur)"
+
+#: captchme-options.php:270
+msgid "C-Billboard Format"
+msgstr "Format C-Billboard"
+
+#: captchme-options.php:275
+msgid ""
+"(you need a special public key for C-Billboard, please create a new universe "
+"in your Publisher Selfcare)"
+msgstr ""
+"(vous avez besoin d'une clé publique spéciale pour le format C-Billboard, "
+"créez svp un nouvel univers sur votre Selfcare Éditeur)"
+
+#: captchme-options.php:281
+msgid "Public Key:"
+msgstr "Clé publique :"
+
+#: captchme-options.php:282
+msgid "Private Key:"
+msgstr "Clé privée :"
+
+#: captchme-options.php:283
+msgid "Authentication Key:"
+msgstr "Clé d'authentification :"
+
+#: captchme-options.php:284
+msgid "Language:"
+msgstr "Langue :"
+
+#: captchme-options.php:285
+msgid "Title:"
+msgstr "Titre :"
+
+#: captchme-options.php:286
+msgid "Instruction:"
+msgstr "Instruction :"
+
+#: captchme-options.php:287
+msgid "SSL:"
+msgstr "SSL :"
+
+#: captchme-options.php:288
+msgid "Adblock Detection:"
+msgstr "Détection d'Adblock :"
+
+#: captchme-options.php:293
+msgid "Activate CaptchMe on comments:"
+msgstr "Activer Captch Me pour les commentaires :"
+
+#: captchme-options.php:294
+msgid "Automatically delete spam comments:"
+msgstr "Suppression automatique des spams :"
+
+#: captchme-options.php:295 captchme-options.php:302 captchme-options.php:308
+msgid "Tabindex:"
+msgstr "Indice de tabulation (tabindex) :"
+
+#: captchme-options.php:300
+msgid "Activate CaptchMe on registration form:"
+msgstr "Activer les captcha Captch Me pour les inscriptions :"
+
+#: captchme-options.php:301
+msgid "Automatically delete spam registration:"
+msgstr "Suppression automatique des spams :"
+
+#: captchme-options.php:307
+msgid "Activate CaptchMe on login form:"
+msgstr "Activer les captcha Captch Me pour les connexions :"
+
+#: captchme-options.php:313
+msgid "Public key for AccessMe:"
+msgstr "Clé publique pour Access Me :"
+
+#: captchme-options.php:314
+msgid "Activate AccessMe:"
+msgstr "Activer Access Me :"
+
+#: captchme-options.php:319
+msgid "Public Key for ShowMe:"
+msgstr "Clé publique pour Show Me :"
+
+#: captchme-options.php:320
+msgid "Activate ShowMe:"
+msgstr "Activer Show Me :"
+
+#: captchme-options.php:321
+msgid "Position:"
+msgstr "Position :"
+
+#: captchme-options.php:326
+msgid "Public Key for LeaveMe:"
+msgstr "Clé publique pour Leave Me :"
+
+#: captchme-options.php:327
+msgid "Activate LeaveMe:"
+msgstr "Activer Leave Me :"
+
+#: captchme-options.php:328
+msgid "Message:"
+msgstr "Message :"
+
+#: captchme-options.php:333
+msgid "Public key for C-Skin:"
+msgstr "Clé publique pour C-Skin :"
+
+#: captchme-options.php:334
+msgid "Activate C-Skin:"
+msgstr "Activer C-Skin :"
+
+#: captchme-options.php:339
+msgid "Public key for C-Floorad:"
+msgstr "Clé publique pour C-Floorad :"
+
+#: captchme-options.php:340
+msgid "Activate C-Floorad:"
+msgstr "Activer C-Floorad :"
+
+#: captchme-options.php:345
+msgid "Public key for C-Banner:"
+msgstr "Clé publique pour C-Banner :"
+
+#: captchme-options.php:346
+msgid "Activate C-Banner:"
+msgstr "Activer C-Banner :"
+
+#: captchme-options.php:351
+msgid "Public key for C-Billboard:"
+msgstr "Clé publique pour C-Billboard :"
+
+#: captchme-options.php:352
+msgid "Activate C-Billboard:"
+msgstr "Activer C-Billboard :"
+
+#: captchme-options.php:412
+msgid ""
+"Invalid CaptchMe public key. It should be 64 alphanumeric characters long."
+msgstr ""
+"Clé publique Captch Me invalide. La clé doit être constituée de 64 "
+"caractères alphanumériques."
+
+#: captchme-options.php:416
+msgid ""
+"Invalid CaptchMe private key. It should be 64 alphanumeric characters long."
+msgstr ""
+"Clé privée Captch Me invalide. La clé doit être constituée de 64 caractères "
+"alphanumériques."
+
+#: captchme-options.php:420
+msgid ""
+"Invalid CaptchMe authentication key. It should be 64 alphanumeric characters "
+"long."
+msgstr ""
+"Clé d'authentification Captch Me invalide. La clé doit être constituée de 64 "
+"caractères alphanumériques."
+
+#: captchme-options.php:450 captchme-options.php:455 captchme-options.php:460
+msgid "Invalid tabindex. It should be a numerical value."
+msgstr "Indice de tabulation invalide. Un nombre entier est attendu."
+
+#: captchme-options.php:502
+msgid ""
+"Invalid AccessMe public key. It should be 64 alphanumeric characters long."
+msgstr ""
+"Clé publique Access Me invalide. La clé doit être constituée de 64 "
+"caractères alphanumériques."
+
+#: captchme-options.php:544
+msgid ""
+"Invalid ShowMe public key. It should be 64 alphanumeric characters long."
+msgstr ""
+"Clé publique Show Me invalide. La clé doit être constituée de 64 caractères "
+"alphanumériques."
+
+#: captchme-options.php:592
+msgid ""
+"Invalid LeaveMe public key. It should be 64 alphanumeric characters long."
+msgstr ""
+"Clé publique Leave Me invalide. La clé doit être constituée de 64 caractères "
+"alphanumériques."
+
+#: captchme-options.php:635
+msgid ""
+"Invalid public key for C-Skin. It should be 64 alphanumeric characters long."
+msgstr ""
+"Clé publique C-Skin invalide. La clé doit être constituée de 64 caractères "
+"alphanumériques."
+
+#: captchme-options.php:679
+msgid ""
+"Invalid public key for C-Floorad. It should be 64 alphanumeric characters "
+"long."
+msgstr ""
+"Clé publique C-Floorad invalide. La clé doit être constituée de 64 "
+"caractères alphanumériques."
+
+#: captchme-options.php:722
+msgid ""
+"Invalid public key for C-Banner. It should be 64 alphanumeric characters "
+"long."
+msgstr ""
+"Clé publique C-Banner invalide. La clé doit être constituée de 64 caractères "
+"alphanumériques."
+
+#: captchme-options.php:765
+msgid ""
+"Invalid public key for C-Billboard. It should be 64 alphanumeric characters "
+"long."
+msgstr ""
+"Clé publique C-Billboard invalide. La clé doit être constituée de 64 "
+"caractères alphanumériques."
+
+#: captchme-options.php:807
+msgid "French"
+msgstr "Français"
+
+#: captchme-options.php:808
+msgid "English"
+msgstr "Anglais"
+
+#: captchme-options.php:809
+msgid "Spanish"
+msgstr "Espagnol"
+
+#: captchme-options.php:810
+msgid "Web User"
+msgstr "Internaute"
+
+#: captchme-options.php:824 captchme-options.php:839
+msgid "Show"
+msgstr "Afficher"
+
+#: captchme-options.php:825 captchme-options.php:840
+msgid "Hide"
+msgstr "Masquer"
+
+#: captchme-options.php:854 captchme-options.php:869
+msgid "Activated"
+msgstr "Activé"
+
+#: captchme-options.php:855 captchme-options.php:870
+msgid "Deactivated"
+msgstr "Désactivé"
+
+#: captchme-options.php:967
+msgid "Left"
+msgstr "Gauche"
+
+#: captchme-options.php:968
+msgid "Right"
+msgstr "Droite"
+
+#: captchme-options.php:1064
+msgid "CaptchMe settings"
+msgstr "Paramètres Captch Me"
+
+#: captchme-options.php:1065
+msgid "Settings"
+msgstr "Réglages"
+
+#: captchme-options.php:1087
+msgid "How to monetize and protect a content with Access Me"
+msgstr "Comment monétiser et protéger un contenu avec Access Me"
+
+#: captchme-options.php:1088
+msgid ""
+"You can use AccessMe to protect links or to hide a part of the page until "
+"the captcha is validated"
+msgstr ""
+"Vous pouvez utiliser Access Me pour protéger les liens ou pour masquer une "
+"partie de la page tant que le captcha n'est pas validé"
+
+#: captchme-options.php:1089
+msgid ""
+"Use <code>[accessme]</code> tag (with required and optional attributes) to "
+"protect links."
+msgstr ""
+"Utilisez la balise <code>[accessme]</code> (avec les attributs obligatoires "
+"et optionnels) pour protéger des liens."
+
+#: captchme-options.php:1090
+msgid ""
+"Use <code>[accessme] YOUR CONTENT TO HIDE [/accessme]</code> tag (with "
+"optional attributes) to hide a part of your page."
+msgstr ""
+"Utilisez la balise <code>[accessme] VOTRE CONTENU A MASQUER [/accessme]</"
+"code> (avec les attributs optionnels) pour masquer une partie de votre page."
+
+#: captchme-options.php:1091
+msgid "See attributes"
+msgstr "Voir attributs"
+
+#: captchme-options.php:1092
+msgid "Hide attributes"
+msgstr "Masquer attibuts"
+
+#: captchme-options.php:1126
+msgid "Protect link attributes"
+msgstr "Attributs protection de lien"
+
+#: captchme-options.php:1129 captchme-options.php:1148
+#: captchme-options.php:1162
+msgid "Attribute"
+msgstr "Attribut"
+
+#: captchme-options.php:1131 captchme-options.php:1150
+#: captchme-options.php:1164
+msgid "Value"
+msgstr "Valeur"
+
+#: captchme-options.php:1135
+msgid "List of URL (separated by commas) to protect with AccessMe"
+msgstr "Liste d'URL (séparé par des virgules) à protéger avec Access Me"
+
+#: captchme-options.php:1136 captchme-options.php:1141
+msgid "or"
+msgstr "ou"
+
+#: captchme-options.php:1136 captchme-options.php:1141
+msgid "required"
+msgstr "obligatoire"
+
+#: captchme-options.php:1140
+msgid "Text for each link"
+msgstr "Texte correspondant à chacun des liens"
+
+#: captchme-options.php:1141
+msgid "same number as url"
+msgstr "même nombre que d'url"
+
+#: captchme-options.php:1145
+msgid "Hide page attributes"
+msgstr "Attributs masquer la page"
+
+#: captchme-options.php:1154
+msgid "Button (or link) title"
+msgstr "Titre du bouton (ou du lien)"
+
+#: captchme-options.php:1155 captchme-options.php:1169
+#: captchme-options.php:1174 captchme-options.php:1179
+#: captchme-options.php:1186 captchme-options.php:1191
+#: captchme-options.php:1205
+msgid "optional"
+msgstr "optionnel"
+
+#: captchme-options.php:1155 captchme-options.php:1169
+#: captchme-options.php:1174 captchme-options.php:1179
+#: captchme-options.php:1186 captchme-options.php:1191
+#: captchme-options.php:1205
+msgid "default"
+msgstr "par défaut"
+
+#: captchme-options.php:1155 captchme.php:609
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: captchme-options.php:1159
+msgid "Shared attributes"
+msgstr "Attributs communs"
+
+#: captchme-options.php:1168
+msgid "Type of element (button or link)"
+msgstr "Type de l’élément (bouton ou lien)"
+
+#: captchme-options.php:1173
+msgid "Element position (center, left or right) in the page"
+msgstr "Position de l'élément (centré, gauche ou droite) dans la page"
+
+#: captchme-options.php:1178
+msgid "Message to be displayed above the AccessMe module"
+msgstr "Message a afficher au dessus du module Access Me"
+
+#: captchme-options.php:1179 captchme-options.php:1205
+msgid "none"
+msgstr "aucun"
+
+#: captchme-options.php:1183
+msgid "Makes AccessMe mandatory. Possible values are:"
+msgstr "Rend Access Me obligatoire. Les valeurs possibles sont :"
+
+#: captchme-options.php:1184
+msgid ""
+"Non-blocking (value to be used \"0\"). AccessMe can be closed by the user by "
+"clicking on a cross in the top right of the screen"
+msgstr ""
+"Non bloquant (valeur à utiliser \"0\"). Access Me pourra être fermé par "
+"l'internaute en cliquant sur une croix en haut à droite de l'écran"
+
+#: captchme-options.php:1185
+msgid ""
+"Blocking (value to be used \"1\"). AccessMe can not be closed. The user must "
+"validate the captcha to continue"
+msgstr ""
+"Bloquant (valeur à utiliser \"1\"). Access Me ne pourra pas être fermé. "
+"L'internaute devra valider le captcha pour poursuivre"
+
+#: captchme-options.php:1190
+msgid "This value determines the opacity of the background image used"
+msgstr "Cette valeur permet de définir l'opacité de l'image de fond utilisée"
+
+#: captchme-options.php:1191
+msgid "from"
+msgstr "de"
+
+#: captchme-options.php:1191
+msgid "to"
+msgstr "à"
+
+#: captchme-options.php:1191
+msgid "step"
+msgstr "pas"
+
+#: captchme-options.php:1195
+msgid ""
+"URL of a style sheet to define the background image used for AccesMe. This "
+"sheet should follow the template below:"
+msgstr ""
+"URL d'une feuille de style pour définir l'image de fond utilisée pour Access "
+"Me. Cette feuille doit suivre le modèle ci-dessous :"
+
+#: captchme-options.php:1209
+msgid "AccessMe tag generator"
+msgstr "Générateur de balise Access Me"
+
+#: captchme-options.php:1211
+msgid "Protect link"
+msgstr "Protection de lien"
+
+#: captchme-options.php:1212
+msgid "Hide page"
+msgstr "Masquer la page"
+
+#: captchme-options.php:1221
+msgid "button"
+msgstr "bouton"
+
+#: captchme-options.php:1221
+msgid "link"
+msgstr "lien"
+
+#: captchme-options.php:1222
+msgid "center"
+msgstr "centré"
+
+#: captchme-options.php:1222
+msgid "left"
+msgstr "gauche"
+
+#: captchme-options.php:1222
+msgid "right"
+msgstr "droite"
+
+#: captchme-options.php:1224
+msgid "non-blocking"
+msgstr "non bloquant"
+
+#: captchme-options.php:1224
+msgid "blocking"
+msgstr "bloquant"
+
+#: captchme-options.php:1228
+msgid "Generate AccessMe tag"
+msgstr "Générer balise Access Me"
+
+#: captchme-options.php:1259
+msgid "Error url and urltext are required"
+msgstr "Erreur : url et urltext sont obligatoires"
+
+#: captchme-options.php:1264 captchme.php:592
+msgid "Number of urls and texts do not match"
+msgstr "Le nombre D’URL et de texte ne correspond pas"
+
+#: captchme-options.php:1273
+msgid "YOUR CONTENT TO HIDE"
+msgstr "VOTRE CONTENU A MASQUER"
+
+#: captchme-options.php:1281
+msgid "Add this tag in your page:"
+msgstr "Ajouter cette balise à votre page :"
+
+#: captchme-options.php:1298
+msgid "CaptchMe is compatible with the plugin Contact Form 7"
+msgstr "Captch Me est compatible avec les formulaires du plugin Contact Form 7"
+
+#: captchme-options.php:1300
+msgid "Install and activate the plugin"
+msgstr "Installez et activez le plugin"
+
+#: captchme-options.php:1301
+msgid "Create your form"
+msgstr "Créez votre formulaire"
+
+#: captchme-options.php:1302 captchme.php:461
+msgid "Add tag"
+msgstr "Ajouter la balise"
+
+#: captchme-options.php:1302 captchme.php:461
+msgid "before tag"
+msgstr "avant la balise"
+
+#: captchme-options.php:1303
+msgid "Add this form to your page"
+msgstr "Ajouter ce formulaire à votre page"
+
+#: captchme-widget.php:13
+msgid "Attentive Ads C-Banner Widget"
+msgstr "Widget C-Banner by Attentive Ads"
+
+#: captchme-widget.php:14
+msgid "Display C-Banner ads"
+msgstr "Affiche les publicités C-Banner"
+
+#: captchme-widget.php:58
+msgid "http://api.captchme.net/autopromo/attentiveads-300x250.html"
+msgstr "http://api.captchme.net/autopromo/attentiveads-300x250.html"
+
+#: captchme-widget.php:63 captchme-widget.php:171
+msgid "Callback url:"
+msgstr "Url de callback :"
+
+#: captchme-widget.php:103
+msgid "Please setup your C-Banner key in Wordpress admin panel"
+msgstr ""
+"Merci de saisir votre clé publique C-Banner dans l'administration de "
+"Wordpress"
+
+#: captchme-widget.php:121
+msgid "Attentive Ads C-Billboard Widget"
+msgstr "Widget C-Billboard by Attentive Ads"
+
+#: captchme-widget.php:122
+msgid "Display C-Billboard ads"
+msgstr "Affiche les publicités C-Billboard"
+
+#: captchme-widget.php:166
+msgid "http://api.captchme.net/autopromo/attentiveads-970x250.html"
+msgstr "http://api.captchme.net/autopromo/attentiveads-970x250.html"
+
+#: captchme-widget.php:209
+msgid "Please setup your C-Billboard key in Wordpress admin panel"
+msgstr ""
+"Merci de saisir votre clé publique C-Billboard dans l'administration de "
+"Wordpress"
+
+#: captchme.php:265 captchme.php:276 captchme.php:366 captchme.php:376
+#: captchme.php:586 captchme.php:588 captchme.php:592
+msgid "ERROR"
+msgstr "ERREUR"
+
+#: captchme.php:265 captchme.php:366 captchme.php:431
+msgid "Please fill in the CaptchMe form."
+msgstr "Merci de remplir le captcha Captch Me."
+
+#: captchme.php:276 captchme.php:376 captchme.php:443
+msgid "CaptchMe captcha response was incorrect."
+msgstr "Réponse incorrecte au captcha Captch Me."
+
+#: captchme.php:431 captchme.php:443
+msgid ""
+"If CaptchMe captcha is not visible, thanks to deactivate your ad blocker and "
+"to refresh the page."
+msgstr ""
+"Si le captcha Captch Me n'est pas visible, merci de désactiver votre "
+"bloqueur de publicités et de recharger la page."
+
+#: captchme.php:467
+msgid "Insert Tag"
+msgstr "Insérer la balise"
+
+#: captchme.php:586
+msgid "No url found, use \"url\" attribute in [accessme] tag"
+msgstr ""
+"Aucun url trouvé, utilisez l'attribut \"url\" dans la balise [accessme]"
+
+#: captchme.php:588
+msgid "No urltext found, use \"urltext\" attribute in [accessme] tag"
+msgstr ""
+"Aucun urltext trouvé, utilisez l'attribut \"urltext\" dans la balise "
+"[accessme]"
+
+#. Plugin Name of the plugin/theme
+msgid "Attentive Ads (CaptchMe)"
+msgstr "Attentive Ads (Captch Me)"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.attentiveads.com"
+msgstr "http://www.attentiveads.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Optimisez la r&eacute;mun&eacute;ration de votre site ! Attentive Ads est la "
+"meilleure fa&ccedil;on de mon&eacute;tiser votre audience avec nos formats "
+"publicitaires respectueux des internautes : mon&eacute;tisez & s&eacute;"
+"curisez commentaires et inscriptions avec les publicaptchas CaptchMe, "
+"mon&eacute;tisez l'acc&egrave;s aux contenus que vous souhaitez valoriser "
+"avec le format Access Me, mon&eacute;tisez toutes vos pages avec nos formats "
+"classiques."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Attentive Ads"
+msgstr "Attentive Ads"
+
+#. Author URI of the plugin/theme
+msgid "http://www.attentiveads.com/"
+msgstr "http://www.attentiveads.com/"
+
+#~ msgid "How to activate C-Banner"
+#~ msgstr "Comment activer C-Banner"
+
+#~ msgid ""
+#~ "To activate C-Banner on your pages you need to paste the code we provide "
+#~ "where you want the format to appear, in your template or in your page "
+#~ "contents."
+#~ msgstr ""
+#~ "Pour activer C-Banner sur vos pages, vous devez coller le code que nous "
+#~ "fournissons où vous voulez que le format apparaisse, dans votre template "
+#~ "ou dans le contenu de votre page."
+
+#~ msgid "Get your code"
+#~ msgstr "Obtenez votre code"
+
+#~ msgid "in your Publisher Selfcare."
+#~ msgstr "sur votre Selfcare Éditeur."
+
+#~ msgid "How to activate C-Billboard"
+#~ msgstr "Comment activer C-Billboard"
+
+#~ msgid ""
+#~ "To activate C-Billboard on your pages you need to paste the code we "
+#~ "provide where you want the format to appear, in your template or in your "
+#~ "page contents."
+#~ msgstr ""
+#~ "Pour activer C-Billboard sur vos pages, vous devez coller le code que "
+#~ "nous fournissons où vous voulez que le format apparaisse, dans votre "
+#~ "template ou dans le contenu de votre page."
+
+#~ msgid "Setup and customize your formats:"
+#~ msgstr "Gérez vos formats :"
+
+#, fuzzy
+#~| msgid "Attentive Ads"
+#~ msgid "panel Attentive Ads"
+#~ msgstr "Attentive Ads"
+
+#~ msgid ""
+#~ "Optimize the income of your site! Attentive Ads is the best way to "
+#~ "monetize your audience with our user-friendly ad formats: make sure you "
+#~ "keep track of comments and signups with ad-captcha CaptchMe, monetize "
+#~ "access to the content you want with AccessMe format, make money on all "
+#~ "your pages with our classic advertising formats."
+#~ msgstr ""
+#~ "Optimisez la rémunération de votre site ! Attentive Ads est la meilleure "
+#~ "façon de monétiser votre audience avec nos formats publicitaires "
+#~ "respectueux des internautes : monétisez & sécurisez commentaires et "
+#~ "inscriptions avec les publicaptchas CaptchMe, monétisez l'accès aux "
+#~ "contenus que vous souhaitez valoriser avec le format Access Me, monétisez "
+#~ "toutes vos pages avec nos formats classiques."
+
+#~ msgid "ABP:"
+#~ msgstr "Détection d'Adblock :"
